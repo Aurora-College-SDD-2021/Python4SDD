@@ -6,7 +6,7 @@ Run pytest in the repl.it shell to check your work.
 
 
 def this_function():
-    """Docs string descriting the task.
+    """Docs string describing the task.
 
     Detailed description. This one just returns a None object
 
@@ -21,6 +21,6 @@ def this_function():
     return None
 
 
-#vIgnore everything below this line...we will talk about it later
+# Ignore everything below this line...we will talk about it later
 if __name__ == "__main__":
     this_function()

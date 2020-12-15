@@ -1,7 +1,20 @@
-""" your first pseudocode program.
-Replace the words 'look at me I am coding' with your own message to let the world know you are now coding.
+""" Brief instructions.
+
+More detailed instructions.
 """
 
-BEGIN print_message
-    Display 'look at me I am coding'
-END print_message
+BEGIN  thisFunction
+    """Docs string describing the task.
+
+    Detailed description. This one just returns a None object
+
+    Args:
+
+    Returns:
+        None
+
+    Raises:
+    """
+    return Nothing
+
+END thisFunction
