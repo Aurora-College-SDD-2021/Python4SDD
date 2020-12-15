@@ -1,0 +1,7 @@
+""" your first pseudocode program.
+Replace the words 'look at me I am coding' with your own message to let the world know you are now coding.
+"""
+
+BEGIN print_message
+    Display 'look at me I am coding'
+END print_message
