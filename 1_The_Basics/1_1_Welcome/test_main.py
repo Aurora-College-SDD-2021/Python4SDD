@@ -1,7 +1,10 @@
+import main
+import pytest
+
+
 def test_print_message(capsys):
     try:
-        from .. import task as t
-        t.print_message()
+        main.print_message()
         out, err = capsys.readouterr()
         print(f"The output: {type(out)} and the error: {type(err)}")
         if out == 'look at me I am coding\n':
