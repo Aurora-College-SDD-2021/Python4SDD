@@ -22,7 +22,6 @@ def data_types():
     return [an_int, a_float, a_str, a_bool]
 
 
-if __name__ == "__main__":
-    # print out the data type and its value
-    for variable in data_types(): 
-        print(f'Data type is {type(variable)}: Value is {variable}')
+# print out the data type and its value
+for variable in data_types(): 
+    print(f'Data type is {type(variable)}: Value is {variable}')
