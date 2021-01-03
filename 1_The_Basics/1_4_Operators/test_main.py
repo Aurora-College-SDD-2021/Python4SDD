@@ -8,10 +8,6 @@ import main
 import pytest
 
 
-def test_data_type():
-    values = main.data_types()
-    assert  type(values[0]) == int
-    assert  type(values[1]) == float
-    assert  type(values[2]) == str
-    assert  type(values[3]) == bool
+def test_this_function():
+    assert main.this_function() == None
     
