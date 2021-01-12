@@ -8,8 +8,6 @@ import main
 import pytest
 
 
-def test_the_answer():
-    answer = main.the_answer()
-    assert answer[0] != 42
-    assert answer[1] != "harmless"
+def test_this_function():
+    assert main.this_function() == None
     

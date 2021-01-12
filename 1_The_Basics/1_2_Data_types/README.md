@@ -4,7 +4,6 @@
 
 Despite appearances, computers ain't very smart. They can only do what you tell them to do and only if they can do it by adding 1s and 0s. But they can add 1s and 0s very, very quickly and this allows them to do complex tasks much faster than you humans.
 
-
 However we aren't generally interested in 1s and 0s, we are interested in more complex data types which must be turned into 1s and 0s by the software.
 
 ## bits and bytes
