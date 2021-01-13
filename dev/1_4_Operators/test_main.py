@@ -8,6 +8,29 @@ import main
 import pytest
 
 
-def test_this_function():
-    assert main.this_function() == None
+def test_calc_sum():
+    assert main.calc_sum(40, 2) == 42
+
+def test_calc_difference():
+    assert main.calc_difference(49, 7) == 42
+
+def test_calc_product():
+    assert main.calc_product(6, 7) == 42
+
+def test_calc_quotient():
+    assert main.calc_quotient(126, 3) == 42
+
+def test_calc_remainder():
+    assert main.calc_remainder(142, 50) == 42
+
+def test_calc_exponentiation():
+    assert main.calc_exponentiation(2, 10) == 1024
+
+def test_largest():
+    assert main.largest(42, 7) is 42
+
+def test_smallest():
+    assert main.smallest(42, 7) is 42
+
+    
     
