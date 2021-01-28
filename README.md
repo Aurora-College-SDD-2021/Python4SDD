@@ -4,7 +4,9 @@ Python course for NSW Stage 6 Software Design and Development
 
 ## Now that you are here...go away
 
-These wiki is not meant to be accessed directly. It is mereley a place to develo and store the exercises which will be delivered through repl.it
+This repo is not meant to be accessed directly. It is mereley a place to develo and store the exercises which will be delivered through repl.it
+
+For information on this soucre see the [Course Information repo](https://github.com/Aurora-College-SDD-2022/Course_Information) and the Course Wiki repo.
 
 ## What this course isn't
 
