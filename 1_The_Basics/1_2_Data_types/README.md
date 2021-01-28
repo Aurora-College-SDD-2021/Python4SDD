@@ -4,7 +4,6 @@
 
 Despite appearances, computers ain't very smart. They can only do what you tell them to do and only if they can do it by adding 1s and 0s. But they can add 1s and 0s very, very quickly and this allows them to do complex tasks much faster than you humans.
 
-
 However we aren't generally interested in 1s and 0s, we are interested in more complex data types which must be turned into 1s and 0s by the software.
 
 ## bits and bytes
@@ -35,4 +34,4 @@ If you look at the `main.py` file you will see two types of non-executing commen
 
 ## Task
 
-Use the comments in the main.py script as a instructions to edit the code until it runs and passes the tests. Remember, you run the test by going to the shell tab (NOT the console tab) and typing `pytest` at the prompt. Then edit the code in the main.pseudo file. When you are finished, submit.
+Use the comments in the main.py script as instructions to edit the code until it runs and passes the tests. Remember, you run the test by going to the shell tab (NOT the console tab) and typing `pytest` at the prompt. Then edit the code in the main.pseudo file. When you are finished, submit.
